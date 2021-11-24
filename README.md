@@ -1,4 +1,4 @@
-# Simon Game
+# Voting Site
 
 By Morgan Waites
 
